@@ -1,4 +1,4 @@
-# TIL
+# TIL
 
 Inspired by the great repository https://github.com/jbranchaud/til I started my own
 TIL repository.
