@@ -3,7 +3,7 @@
 Keynote comes with a version of the gem [Rumble](https://github.com/judofyr/rumble),
 an HTML markup in Ruby.
 
-You can have problems with some Rais helpers that generate tags, like link_to in
+You can have problems with some Rails helpers that generate tags, like link_to in
 this cases you can use the `text` method followed with the tag helper
 
 ```ruby

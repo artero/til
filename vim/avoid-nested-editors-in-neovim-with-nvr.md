@@ -1,7 +1,7 @@
 # Avoid nested editors in NeoVim with nvr
 
 With this script in your `~/.zshrc` file, you can avoid nested editor when you execute
-nvim command inside the NeoVim terminal
+NeoVim command inside the NeoVim terminal
 
 ```sh
 # User nvr inside nvim to prevent nested nesting
