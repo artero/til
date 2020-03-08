@@ -12,3 +12,9 @@ A list of small interesting things that I learned and I want to share.
 ## Unix
 
 - [Replace text in multiple files](unix/replace-text-in-multiple-files.md)
+
+## VIM
+
+- [Avoid nested editors in neovim with nvr](avoid-nested-editors-in-neovim-with-nvr.md)
+- [Command line window](command-line-window.md)
+
