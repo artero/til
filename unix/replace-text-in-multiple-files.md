@@ -3,7 +3,7 @@
 To search and replace text in Unix we can use the next command
 
 ```shell
-grep -rIl 'search' * | xargs sed -i '' 's/search/remplace/g'
+grep -rIl 'search' */* | xargs sed -i '' 's/search/remplace/g'
 ```
 
 The command grep uses these search arguments: 
